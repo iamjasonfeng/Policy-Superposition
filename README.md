@@ -1,5 +1,7 @@
 # Policy-Superposition
 
+Policy Superposition for ARC-AGI 3
+
 [PDF](https://iamjasonfeng.github.io/Policy-Superposition/policy_superposition_preliminary_report.pdf)
 
 Abstract
